@@ -58,5 +58,9 @@ int main(){
     cout << "Sec: " << duration.count()/100000 << endl;
     return 0;
 }
+<<<<<<< HEAD
 fsdfsdfds
+=======
+dadasd
+>>>>>>> d34c489a522f316b451c5a427f49baf6c0d4a2ea
 //this is edit line
