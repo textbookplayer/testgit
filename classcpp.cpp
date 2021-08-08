@@ -27,4 +27,5 @@ CCIR::CCIR(float r){
 
 void CCIR::show_r(){
     std::cout << "R element is: " << this->m_r << std::endl;
-}
+
+// this is an test git comment}
